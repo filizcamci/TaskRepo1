@@ -1,0 +1,4 @@
+task folder 1> file 3> line 1
+task folder 1> file 3> line 2
+task folder 1 >file 3> line 3
+task folder 1 >file 3> line 4
